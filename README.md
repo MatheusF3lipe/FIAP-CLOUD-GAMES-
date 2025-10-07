@@ -45,5 +45,6 @@ Este documento descreve o fluxo da arquitetura de microsserviços com AWS API Ga
 - **Facilidade para manutenção e evolução** dos serviços de forma modular  
 
 ---
-<img width="5564" height="4612" alt="image" src="https://github.com/user-attachments/assets/49c3724a-8eec-4aae-999a-86c47a75d513" />
+<img width="5564" height="4612" alt="image" src="https://github.com/user-attachments/assets/8c42352c-4e99-43c3-8154-8f0a7bd5c387" />
+
 
